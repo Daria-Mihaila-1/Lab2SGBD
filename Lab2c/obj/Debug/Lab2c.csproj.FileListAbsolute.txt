@@ -1,0 +1,11 @@
+C:\Users\Daria\source\repos\Lab2c\Lab2c\bin\Debug\Lab2c.exe.config
+C:\Users\Daria\source\repos\Lab2c\Lab2c\bin\Debug\Lab2c.exe
+C:\Users\Daria\source\repos\Lab2c\Lab2c\bin\Debug\Lab2c.pdb
+C:\Users\Daria\source\repos\Lab2c\Lab2c\obj\Debug\Lab2c.csproj.AssemblyReference.cache
+C:\Users\Daria\source\repos\Lab2c\Lab2c\obj\Debug\Lab2c.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daria\source\repos\Lab2c\Lab2c\obj\Debug\Lab2c.Properties.Resources.resources
+C:\Users\Daria\source\repos\Lab2c\Lab2c\obj\Debug\Lab2c.csproj.GenerateResource.cache
+C:\Users\Daria\source\repos\Lab2c\Lab2c\obj\Debug\Lab2c.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\Lab2c\Lab2c\obj\Debug\Lab2c.exe
+C:\Users\Daria\source\repos\Lab2c\Lab2c\obj\Debug\Lab2c.pdb
+C:\Users\Daria\source\repos\Lab2c\Lab2c\obj\Debug\Lab2c.Form1.resources
